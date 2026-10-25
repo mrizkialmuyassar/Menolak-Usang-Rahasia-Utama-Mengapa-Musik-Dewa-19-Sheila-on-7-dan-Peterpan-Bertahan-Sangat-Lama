@@ -372,7 +372,6 @@ import matplotlib.pyplot as plt
 from matplotlib.patches import Patch
 
 # 1. DATA LAGU (sumber: Musicmetricsvault, 23–24 Oktober 2026)
-# Urutkan per band; jumlah lagu per band boleh berbeda
 data = {
     "Band": ["Sheila on 7"] * 3 + ["Dewa 19"] * 3 + ["Noah"] * 3 + ["Peterpan"] * 3,
     "Lagu": [
